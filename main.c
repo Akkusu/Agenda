@@ -1,4 +1,4 @@
-Programa que gerera un catalago de clientes
+//Programa que gerera un catalago de clientes
 #include <stdio.h>
 #include <windows.h>
 #include <string.h>
